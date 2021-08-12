@@ -17,3 +17,4 @@ for (const product of products) {
     }
     console.log(product);
 }
+// what is javaScript : High Level interpreted Programming language
